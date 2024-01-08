@@ -28,6 +28,11 @@
     },
     {
       "type": "git",
+      "url": "https://github.com/dev4traders/d4t-admin-custom-style.git",
+      "canonical": false
+    },
+    {
+      "type": "git",
       "url": "https://github.com/dev4traders/d4t-admin-ui-dcat-adminlte.git",
       "canonical": false
     },
@@ -58,6 +63,7 @@
     "dev4traders/d4t-core": "dev-main",
     "dev4traders/dcat-admin": "dev-main",
     "dev4traders/d4t-admin-ui-dcat-adminlte": "dev-main",
+    "dev4traders/d4t-admin-custom-style": "dev-main",
     "dev4traders/d4t-admin-demos": "dev-main",
     "dev4traders/d4t-admin-helpers": "dev-main"
   },
