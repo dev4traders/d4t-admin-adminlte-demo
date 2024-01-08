@@ -4,3 +4,5 @@
 
 ## login/password
 admin/123123
+
+base url: http://localhost/admin
