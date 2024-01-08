@@ -6,3 +6,5 @@
 admin/123123
 
 base url: http://localhost/admin
+
+![Screenshot](screen.png)
